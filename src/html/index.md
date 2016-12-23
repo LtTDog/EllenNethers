@@ -1,6 +1,6 @@
----
-<!-- title: In loving memory of Ellen Nethers -->
----
+<center>
+![alt text](EllenNethers.jpg "EllenNethers")
+</center>
 
 Ellen Cecilia Nethers, age 78, of Newark, passed away on December 21, 2016 at Flint Ridge Nursing and Rehabilitation Center. She was born February 13, 1938 in Detroit, Michigan to Otto C. and Celeste B. (Claeys) Odendahl.
 
@@ -15,3 +15,5 @@ A memorial service will be held at the Flint Ridge Community Center, 1450 West M
 Memorial contributions may be made to the charity of the donor’s choice.
 
 The Newark Chapel of Henderson-Van Atta-Stickle Funeral & Cremation Service is assisting the family with arrangements.
+
+[Photo Album of her and family](https://www.facebook.com/media/set/?set=a.1177551935615195&type=1&l=cf45ad1b96)

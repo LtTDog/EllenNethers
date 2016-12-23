@@ -19,7 +19,7 @@ var
     base: __dirname + '/',
     lib: __dirname + '/lib/',
     source: './src/',
-    dest: './build/'
+    dest: './docs/'
   },
 
   // modules
@@ -40,7 +40,7 @@ var
     devBuild: devBuild,
     version: pkg.version,
     name: 'In Memory of Ellen Nethers',
-    desc: '',
+    desc: 'Tribute to Ellen Nethers',
     author: 'Terrence Drumm',
     contact: 'https://twitter.com/lttdog',
     domain: devBuild ? 'http://127.0.0.1' : '', // set domain
