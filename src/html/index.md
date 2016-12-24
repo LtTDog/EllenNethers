@@ -1,7 +1,3 @@
-<center>
-![alt text](/images/EllenNethers.jpg "EllenNethers")
-</center>
-
 Ellen Cecilia Nethers, age 78, of Newark, passed away on December 21, 2016 at Flint Ridge Nursing and Rehabilitation Center. She was born February 13, 1938 in Detroit, Michigan to Otto C. and Celeste B. (Claeys) Odendahl.
 
 Ellen deeply loved her family and will be sadly missed. She had a good sense of humor, always had a smile on her face and was a very kind, warm and compassionate woman. She enjoyed collecting dolls and growing houseplants. She graduated St. Francis de Sales High School in 1956 and was very active with Flint Ridge Community Village where she won best Christmas display for 2015.
