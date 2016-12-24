@@ -68,25 +68,6 @@ var ms = metalsmith(dir.base)
       reverse: true,
       refer: false
     },
-    start: {
-      pattern: 'start/**/*',
-      sortBy: 'priority',
-      reverse: true,
-      refer: true,
-      metadata: {
-        layout: 'article.html'
-      }
-    },
-    article: {
-      pattern: 'article/**/*',
-      sortBy: 'date',
-      reverse: true,
-      refer: true,
-      limit: 50,
-      metadata: {
-        layout: 'article.html'
-      }
-    }
   }))
   .use(markdown()) // convert markdown
   .use(permalinks({ // generate permalinks
