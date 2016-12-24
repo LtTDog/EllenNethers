@@ -39,7 +39,7 @@ var
   siteMeta = {
     devBuild: devBuild,
     version: pkg.version,
-    name: 'In Memory of Ellen Nethers',
+    name: 'Ellen Nethers (1938 - 2016)',
     desc: 'Tribute to Ellen Nethers',
     author: 'Terrence Drumm',
     contact: 'https://twitter.com/lttdog',

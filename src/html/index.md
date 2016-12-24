@@ -17,3 +17,7 @@ Memorial contributions may be made to the charity of the donor’s choice.
 The Newark Chapel of Henderson-Van Atta-Stickle Funeral & Cremation Service is assisting the family with arrangements.
 
 [Photo Album of her and family](https://www.facebook.com/media/set/?set=a.1177551935615195&type=1&l=cf45ad1b96)
+
+<center>
+<dl><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fterrence.drumm%2Fposts%2F10154780290602889&width=500" width="500" height="626" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></dl>
+</center>
