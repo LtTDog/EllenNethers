@@ -1,6 +1,18 @@
-header {
+.header {
   background: #670000;
+  height: 400px;
+  color: #FCF7F8;
+  text-align: center;
+  font-size: 2em;
 }
+.header img{
+  float: left;
+}
+
+.header-title {
+  font-size: 5em;
+}
+
 body {
   background: #241e1d;
   color: #FCF7F8;
