@@ -43,7 +43,7 @@ var
     desc: 'Tribute to Ellen Nethers',
     author: 'Terrence Drumm',
     contact: 'https://twitter.com/lttdog',
-    domain: devBuild ? 'http://127.0.0.1' : 'https://lttdog.github.io/', // set domain
+    domain: devBuild ? 'http://127.0.0.1' : 'https://lttdog.github.io', // set domain
     rootpath: devBuild ? null : '/EllenNethers/' // set absolute path (null for relative)
   },
 
