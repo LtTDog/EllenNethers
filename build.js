@@ -11,7 +11,7 @@ Build production site with `npm run production`
 var
 // defaults
   consoleLog = false, // set true for metalsmith file and meta content logging
-  devBuild = ((process.env.NODE_ENV || '').trim().toLowerCase() !== 'production'),
+  devBuild = false,
   pkg = require('./package.json'),
 
   // main directories
@@ -43,8 +43,8 @@ var
     desc: 'Tribute to Ellen Nethers',
     author: 'Terrence Drumm',
     contact: 'https://twitter.com/lttdog',
-    domain: devBuild ? 'http://127.0.0.1' : '', // set domain
-    rootpath: devBuild ? null : 'https://lttdog.github.io/EllenNethers/' // set absolute path (null for relative)
+    domain: devBuild ? 'http://127.0.0.1' : 'https://lttdog.github.io/EllenNethers/', // set domain
+    rootpath: devBuild ? null : '' // set absolute path (null for relative)
   },
 
   templateConfig = {
