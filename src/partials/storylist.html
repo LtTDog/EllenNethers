@@ -1,0 +1,17 @@
+{{#if stories}}
+	<ul class="storylist">
+	{{#each stories}}
+		{{#if isIndex}}
+		{{else}}
+			<li>
+			{{#if active}}
+				<strong>{{title}}</strong>
+			{{else}}
+				<a href="/{{path}}">{{title}}</a>
+			{{/if}}
+			</li>
+		{{/if}}
+	{{/each}}
+
+	</ul>
+{{/if}}

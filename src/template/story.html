@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+{{> meta }}
+</head>
+<body>
+{{> header}}
+<div class="container-fluid story">
+  <div class="story-title">
+    {{{ title }}}
+  </div>
+  <div class="story-author">
+    by {{{ author }}}
+  </div>
+  <br />
+  <br />
+  <div class="story-content">
+  {{{ contents }}}
+</div>
+</div>
+
+{{> footer template='story' }}
+
+</body>
+</html>

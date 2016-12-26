@@ -57,7 +57,7 @@ var
 console.log((devBuild ? 'Development' : 'Production'), 'build, version', pkg.version);
 
 var ms = metalsmith(dir.base)
-  .clean(!devBuild) // clean folder before a production build
+  .clean(true) // clean folder before a production build
   .source(dir.source + 'html/') // source folder (src/html/)
   .destination(dir.dest) // build folder (build/)
   .metadata(siteMeta) // add meta data to every page
@@ -68,6 +68,16 @@ var ms = metalsmith(dir.base)
       reverse: true,
       refer: false
     },
+    stories: {
+      pattern: 'stories/*',
+      sortBy: 'title',
+      reverse: false,
+      refer: true,
+      limit: 50,
+      metadata: {
+        layout: 'story.html'
+      }
+    }
   }))
   .use(markdown()) // convert markdown
   .use(permalinks({ // generate permalinks

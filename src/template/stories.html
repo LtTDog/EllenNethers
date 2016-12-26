@@ -5,11 +5,17 @@
 </head>
 <body>
 {{> header}}
+
 <div class="container-fluid">
-  {{{ contents }}}
+	<p>
+	{{{ contents }}}
+</p>
+<p>
+	{{> storylist}}
+</p>
 </div>
 
-{{> footer template='page' }}
+{{> footer template='stories' }}
 
 </body>
 </html>

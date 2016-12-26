@@ -33,7 +33,7 @@ a:hover{
   color: #4F0000;
 }
 
-ul {
+navmain ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -41,11 +41,11 @@ ul {
     background-color: #410202;
 }
 
-li {
+navmain li {
     float: left;
 }
 
-li a {
+navmain li a {
     display: block;
     color: white;
     text-align: center;
@@ -54,7 +54,17 @@ li a {
 }
 
 /* Change the link color to #111 (black) on hover */
-li a:hover {
+navmain li a:hover {
     background-color: #D30000;
     color: white;
+}
+
+.story-title{
+  font-size: 2em;
+  text-align: center;
+}
+
+.story-author{
+  font-size: 1.5em;
+  text-align: center;
 }
