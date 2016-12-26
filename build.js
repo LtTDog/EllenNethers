@@ -44,7 +44,7 @@ var
     author: 'Terrence Drumm',
     contact: 'https://twitter.com/lttdog',
     domain: devBuild ? 'http://127.0.0.1' : '', // set domain
-    rootpath: devBuild ? null : '' // set absolute path (null for relative)
+    rootpath: devBuild ? null : 'https://lttdog.github.io/EllenNethers/' // set absolute path (null for relative)
   },
 
   templateConfig = {
@@ -69,7 +69,7 @@ var ms = metalsmith(dir.base)
       refer: false
     },
     stories: {
-      pattern: 'stories/*',
+      pattern: 'stories/**/*',
       sortBy: 'title',
       reverse: false,
       refer: true,

@@ -2,7 +2,7 @@ Ellen Cecilia Nethers, age 78, of Newark, passed away on December 21, 2016 at Fl
 
 Ellen deeply loved her family and will be sadly missed. She had a good sense of humor, always had a smile on her face and was a very kind, warm and compassionate woman. She enjoyed collecting dolls and growing houseplants. She graduated St. Francis de Sales High School in 1956 and was very active with Flint Ridge Community Village where she won best Christmas display for 2015.
 
- She is survived by her three sons, Tim Nethers, Bill Nethers and Brian (Cat) Nethers all of Newark; two daughters, Mary (Kenny Wahl) Nethers of Heath and Joellen Meadows of Newark; a brother, Gene (Twila) Odendal of Perrysburg; a sister, Maureen Odendahl of Newark; fourteen grandchildren and  thirteen great-grandchildren; and numerous nieces and nephews.
+She is survived by her three sons, Tim Nethers, Bill Nethers and Brian (Cat) Nethers all of Newark; two daughters, Mary (Kenny Wahl) Nethers of Heath and Joellen Meadows of Newark; a brother, Gene (Twila) Odendal of Perrysburg; a sister, Maureen Odendahl of Newark; fourteen grandchildren and  thirteen great-grandchildren; and numerous nieces and nephews.
 
 She was preceded in death by her husband, Joseph J. Nethers (2000); son, Paul Nethers; infant daughter, Suzanne Nethers; two brothers, Otto Odendahl and infant brother, Donald Odendahl, sister, Joyce Willman; and son-in-law, Jim Meadows.
 
