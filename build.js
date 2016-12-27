@@ -56,6 +56,7 @@ var
 
 console.log((devBuild ? 'Development' : 'Production'), 'build, version', pkg.version);
 
+
 var ms = metalsmith(dir.base)
   .clean(true) // clean folder before a production build
   .source(dir.source + 'html/') // source folder (src/html/)
@@ -69,7 +70,7 @@ var ms = metalsmith(dir.base)
       refer: false
     },
     stories: {
-      pattern: 'stories/*',
+      pattern: 'stories/**/*',
       sortBy: 'title',
       reverse: false,
       refer: true,
