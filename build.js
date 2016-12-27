@@ -69,7 +69,7 @@ var ms = metalsmith(dir.base)
       refer: false
     },
     stories: {
-      pattern: 'stories/**/*',
+      pattern: 'stories/*',
       sortBy: 'title',
       reverse: false,
       refer: true,
