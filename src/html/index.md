@@ -4,7 +4,7 @@ Ellen deeply loved her family and will be sadly missed. She had a good sense of 
 
 She is survived by her three sons, Tim Nethers, Bill Nethers and Brian (Cat) Nethers all of Newark; two daughters, Mary (Kenny Wahl) Nethers of Heath and Joellen Meadows of Newark; a brother, Gene (Twila) Odendal of Perrysburg; a sister, Maureen Odendahl of Newark; fourteen grandchildren and  thirteen great-grandchildren; and numerous nieces and nephews.
 
-She was preceded in death by her husband, Joseph J. Nethers (2000); son, Paul Nethers; infant daughter, Suzanne Nethers; two brothers, Otto Odendahl and infant brother, Donald Odendahl, sister, Joyce Willman; and son-in-law, Jim Meadows.
+She was preceded in death by her husband, Joseph J. Nethers (2000); son, Paul Nethers; infant daughter, Suzanne Nethers; two brothers, Otto Odendahl and infant brother, Donald Odendahl, sister, Joyce Willmann; and son-in-law, Jim Meadows.
 
 A memorial service will be held at the Flint Ridge Community Center, 1450 West Main Street, at a later date.
 
